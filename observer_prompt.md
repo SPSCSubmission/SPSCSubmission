@@ -33,9 +33,6 @@ Rules:
 ```
 
 ## User Message Content
-
-The observer user message is a compact run context assembled from one completed run. It contains:
-
 - experiment metadata
 - scenario text
 - sampled agent profiles and personality summaries

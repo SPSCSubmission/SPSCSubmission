@@ -1,8 +1,7 @@
 # Paper Text Materials
 
-This folder is an isolated, text-only bundle for paper appendices or an anonymized GitHub upload. It contains Markdown renderings of the prompts, scenario wording, and example model inputs used by the simulation framework.
-
-No source code, model outputs, raw participant rows, local paths, API settings, or run artifacts are included here.
+Here you can find all prompts, games and scenarios used in the "Can You Simulate Privacy Disclosure with LLM Agents in Conversations?" paper. 
+It contains Markdown renderings of the prompts, scenario wording, and example model inputs used by the simulation framework.
 
 ## Files
 

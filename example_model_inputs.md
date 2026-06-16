@@ -20,7 +20,6 @@ Your objective in this study: Make the disclosure choice you would actually make
 You are participating in an anonymous one-shot study of disclosure decisions.
 You will not communicate further with the other party outside the listed options.
 You will not interact with the other party again as part of this study.
-Your response is recorded for research only.
 Real participants in disclosure studies pick all over the range - some refuse to disclose anything, some disclose fully, and many sit at intermediate levels depending on who they are. You are under no obligation to pick a particular level.
 Every whole number on the scale is a permitted answer - including 0 and the maximum.
 ```

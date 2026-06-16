@@ -20,10 +20,6 @@ both of you can end better off if you send money and the other person sends some
 
 the other person can keep the tripled money and send nothing back, leaving you worse off than if you had kept your money
 
-**Dual-use statement**
-
-not applicable
-
 **Question shown to participant**
 
 ```text
@@ -47,10 +43,6 @@ both of you can end better off when you send money and the other person sends so
 **Risk**
 
 the other person can keep the tripled money and send nothing back, leaving you worse off than if you had kept your money for that round
-
-**Dual-use statement**
-
-not applicable
 
 **Question shown to participant**
 
@@ -76,10 +68,6 @@ if you choose 1 and the other person chooses the first outcome, you receive fift
 
 if you choose 1 and the other person chooses the second outcome, you receive two dollars
 
-**Dual-use statement**
-
-not applicable
-
 **Question shown to participant**
 
 ```text
@@ -103,10 +91,6 @@ taking talers gives you an immediate personal gain, while passing talers can cre
 **Risk**
 
 taking talers can trigger costly punishment, while passing talers can leave you exposed if the other person does not reward you
-
-**Dual-use statement**
-
-not applicable
 
 **Question shown to participant**
 

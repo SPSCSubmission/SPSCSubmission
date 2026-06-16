@@ -43,9 +43,3 @@ The observer user message is a compact run context assembled from one completed 
 - final action
 - extracted reasoning text
 - structured log summary
-
-If the observer response is invalid, the retry user message is:
-
-```text
-Your previous observer response was invalid: [error]. Return exactly one valid JSON object with all required keys and no markdown or extra text.
-```

@@ -1,6 +1,6 @@
 # Observer Prompt
 
-The observer model is used after actor runs to produce structured research metrics. It does not participate in the simulated interaction.
+The observer model is used after the conversation. It receives the whole input from an Agent.
 
 ## System Message
 
